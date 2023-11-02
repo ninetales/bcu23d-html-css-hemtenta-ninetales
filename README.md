@@ -160,10 +160,23 @@ Lista:
 Förklara följande koncept i Sass (bonusfråga):
 
 1. mixin
+
+   > Mixins kan användas för att återanvända komplexa stilar eller stilar som kräver anpassning. De kan användas för att definiera en grupp av stilar som sedan kan användas i andra stilar.
+
 2. lists
+
+   > En SASS lista kan användas för att lagra en samling av värden. Listor kan innehålla alla typer av värden, inklusive strängar, tal, variabler och andra listor
+
 3. function
+
+   > I Sass används funktioner till att organisera kod och utföra återkommande beräkningar och operationer på ett enkelt och återanvändbart sätt. De hjälper till att organisera och effektivisera CSS-koden genom att hantera komplexa uppgifter som matematik och färgmanipulation.
+
 4. partials
+
+   > Partials består av delar av SASS-kod. Dessa partials sparas vanligtvis i filer som börjar med ett understreck och har filändelsen .scss eller .sass. De används för att bryta upp CSS-kod i mindre, mer hanterbara delar, vilket gör det lättare att organisera och underhålla en kodbas.
+
 5. variables
+   > Det är namngivna platshållare för att lagra och återanvända värden, som färger, textsträngar eller numeriska värden.
 
 ### 9. Tillgänglighet (10 ⭐)
 
@@ -226,5 +239,9 @@ Kantarellas sajt har precis lanserats, och det finns i dagsläget 5 st blogginl�
 Vilka fem saker gör du?
 
 ```
-
+1. Kollar så att det finns semantiska html element.
+2. Går igenom texterna för att se om där finns starka keywords.
+3. Ser över namnen på länkarna, att länkarna matchar innehållet.
+4. Ser till att den är tillgänglighetsoptimerad.
+5. Ser till att den är mobilanpassad för att nå ut till en bredare publik.
 ```
